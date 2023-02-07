@@ -108,7 +108,7 @@ $(() => {
     showBorders: true,
     dataSource: //'https://docs.google.com/file/d/1330o7LBWN3ifQ0qCyxAUJU6BXEV3Cfda/open?',
                 //./data/info_pd.json',
-                'https://raw.githubusercontent.com/20536207/Adiwiyata/main/data/dbinfopd.json',
+                'https://raw.githubusercontent.com/20536207/Adiwiyata/main/data/info_pd.json',
     //columnHidingEnabled: true,
     allowColumnReordering: true,
     allowColumnResizing: true,
