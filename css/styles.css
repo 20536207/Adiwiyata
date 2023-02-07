@@ -1,0 +1,14 @@
+
+#gridContainer {
+  height: 100%;
+  font-size: 0.8rem;
+  font-weight: unset;
+  background-color: inherit;
+}
+
+.content-center {
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  font-size: 0.3rem;
+}
