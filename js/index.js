@@ -107,8 +107,8 @@ $(() => {
   $('#gridContainer').dxDataGrid({
     showBorders: true,
     dataSource: //'https://docs.google.com/file/d/1330o7LBWN3ifQ0qCyxAUJU6BXEV3Cfda/open?',
-                './data/info_pd.json',
-                //'https://raw.githubusercontent.com/20536207/Peserta-DIdik/main/data/dbinfopd.json',
+                //./data/info_pd.json',
+                'https://raw.githubusercontent.com/20536207/Peserta-DIdik/main/data/dbinfopd.json',
     //columnHidingEnabled: true,
     allowColumnReordering: true,
     allowColumnResizing: true,
